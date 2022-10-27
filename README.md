@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-(https://holopin.me/shreya7rauniyar)](https://holopin.io/@shreya7rauniyar)
+
+ [![@shreya7rauniyar's Holopin board](https://holopin.me/shreya7rauniyar)](https://holopin.io/@shreya7rauniyar)
